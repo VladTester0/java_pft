@@ -1,4 +1,6 @@
-public class Debugging {
+package ru.stqa.pft.sandbox;
+
+public class DebuggingLesson {
     public static void main(String[] args) {
         example1();
     }
